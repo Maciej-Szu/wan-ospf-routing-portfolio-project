@@ -1,0 +1,13 @@
+# IP Addressing Plan
+
+# LAN Networks
+- Location; Address
+
+War; 192.168.10.0/24
+Krk; 192.168.20.0/24
+
+# WAN Networks
+-Link; Address
+
+War - ISP; 203.0.113.0/30
+ISP - Krk; 203.0.113.4/30

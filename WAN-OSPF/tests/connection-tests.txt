@@ -1,0 +1,10 @@
+# Connection Tests
+
+# OSPF Neighbors
+- All neighbors in FULL state
+
+# Routing table
+- OSPF routes for remote LANs
+
+# End-to-end Ping
+- All pings successful
